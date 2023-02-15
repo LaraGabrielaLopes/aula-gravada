@@ -2,4 +2,8 @@ Fazendo modificaçao
 
 Fazendo nova modificaçao
 
+<<<<<<< HEAD
 Curly 1
+=======
+Modificando no Curly 2
+>>>>>>> 64e1c2c1cb623b00726f4778f058de301e6b8ea2
